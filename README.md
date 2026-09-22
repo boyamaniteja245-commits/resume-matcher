@@ -10,8 +10,6 @@
 
 ## 📸 Project Preview
 
-## 📸 Project Preview
-
 ![AI Resume Matcher Demo](resume-matcher-demo.png)
 
 ---
