@@ -10,13 +10,9 @@
 
 ## 📸 Project Preview
 
-<!-- Add your application screenshot here -->
+## 📸 Project Preview
 
-<!-- Example:
-![AI Resume Matcher Screenshot](assets/screenshot.png)
--->
-
-> **Tip:** Upload a screenshot of your working application to your repository and replace the section above with its image path.
+![AI Resume Matcher Demo](resume-matcher-demo.png)
 
 ---
 
